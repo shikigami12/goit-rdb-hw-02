@@ -18,13 +18,13 @@
 goit-rdb-hw-02/
 ├── README.md
 ├── screenshots/
-│   ├── unnormalized.png          # Початкова таблиця
-│   ├── 1nf.png                   # Таблиці у 1НФ
-│   ├── 2nf.png                   # Таблиці у 2НФ
-│   ├── 3nf.png                   # Таблиці у 3НФ
-│   ├── structure_part_1.png      # ER-діаграма (частина 1)
-│   ├── structure_part_2.png      # ER-діаграма (частина 2)
-│   └── transformation_details.png # Деталі трансформації
+│   ├── unnormalized.png          # ER-діаграма - Початкова таблиця
+│   ├── 1nf.png                   # ER-діаграма - Таблиці у 1НФ 
+│   ├── 2nf.png                   # ER-діаграма - Таблиці у 2НФ
+│   ├── 3nf.png                   # ER-діаграма - Таблиці у 3НФ
+│   ├── structure_part_1.png      # схема з Workbench
+│   ├── structure_part_2.png      # схема з Workbench
+│   └── transformation_details.png # ER-діаграма - Деталі трансформації
 └── sql/
     ├── unnormalized.sql          # Початкова ненормалізована таблиця
     ├── 1nf.sql                   # SQL для 1НФ
